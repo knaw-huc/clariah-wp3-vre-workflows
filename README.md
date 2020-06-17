@@ -23,5 +23,4 @@ Deze scripts zijn gemaakt in de context van CLARIAH WP3 om te zien in hoeverre e
 voorbeeld workflows daadwerkelijk in de praktijk uit te voeren zijn en in welke mate
 ze met eenvoudige (Python) scripting te automatiseren zijn.
 Heb je zelf zo'n workflow, en heb je hulp nodig om deze scripts in jouw context werkend
-te krijgen, schroom dan niet contact op te nemen met: teamtext@di.huc.knaw.nl (c.q.,
-Hennie.Brugman@di.huc.knaw.nl zolang die alias nog niet actief is)
+te krijgen, schroom dan niet contact op te nemen met [HuC DI :: Team Text](mailto:text@di.huc.knaw.nl)
