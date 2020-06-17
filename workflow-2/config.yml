@@ -1,0 +1,8 @@
+odtFile: example.odt
+xmlFile: example.xml
+flatHost: https://flat.science.ru.nl
+flatUploadEndpoint: /pub/upload
+pier: https://webservices-lst.science.ru.nl/piereling
+clam:
+  user: *REDACTED*
+  pass: *REDACTED*

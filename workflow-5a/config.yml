@@ -1,0 +1,10 @@
+clam: 
+  user: *REDACTED*
+  pass: *REDACTED*
+
+host: https://webservices-lst.science.ru.nl/piccl
+
+outputTiccl: './example.xml'
+
+inputfiles:
+  - 'example.tif' # no metadata when format is: {number}_{number}.tiff

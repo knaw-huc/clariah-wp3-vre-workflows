@@ -1,0 +1,21 @@
+clam: 
+  user: *REDACTED*
+  pass: *REDACTED*
+
+files:
+  word: ./example.docx
+  pier: ./example.pier.xml
+  frog: ./example.frog.xml
+
+frog:
+  host: https://webservices-lst.science.ru.nl/frog
+#	valid options for 'skip' are
+#	t - Tokeniser
+#	m - Multi-Word Detector
+#	p - Parser
+#	c - Chunker / Shallow parser
+#	n - Named Entity Recognition
+#	Multiple choices may be combined as a comma separated list 
+  skip:
+
+pier: https://webservices-lst.science.ru.nl/piereling
